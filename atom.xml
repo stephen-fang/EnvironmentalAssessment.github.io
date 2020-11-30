@@ -3,11 +3,11 @@
   <title>环评</title>
   
   
-  <link href="http://fxx.me/atom.xml" rel="self"/>
+  <link href="https://github.com/stephen-fang/EnvironmentalAssessment.github.io/atom.xml" rel="self"/>
   
-  <link href="http://fxx.me/"/>
+  <link href="https://github.com/stephen-fang/EnvironmentalAssessment.github.io/"/>
   <updated>2020-11-30T01:57:18.752Z</updated>
-  <id>http://fxx.me/</id>
+  <id>https://github.com/stephen-fang/EnvironmentalAssessment.github.io/</id>
   
   <author>
     <name>F</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://fxx.me/2020/11/30/hello-world/"/>
-    <id>http://fxx.me/2020/11/30/hello-world/</id>
+    <link href="https://github.com/stephen-fang/EnvironmentalAssessment.github.io/2020/11/30/hello-world/"/>
+    <id>https://github.com/stephen-fang/EnvironmentalAssessment.github.io/2020/11/30/hello-world/</id>
     <published>2020-11-30T01:57:18.751Z</published>
     <updated>2020-11-30T01:57:18.752Z</updated>
     
